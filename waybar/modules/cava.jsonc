@@ -1,0 +1,5 @@
+ "custom/cava": {
+        "format": "󱑽{}",
+        "rotate": 0,
+        "on-click": "tilda -c cava"
+},

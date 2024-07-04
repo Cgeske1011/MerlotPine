@@ -1,0 +1,53 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+## name: Rosé Pine
+## author: mvllow
+## license: MIT
+## upstream: https://github.com/rose-pine/kitty/blob/main/dist/rose-pine.conf
+## blurb: All natural pine, faux fur and a bit of soho vibes for the classy minimalist
+
+foreground              #ffd373
+background              #241717
+selection_foreground    #eb6f92
+selection_background    #330317
+cursor                  #674F53 
+cursor_text_color       #F4DEE5
+
+active_tab_foreground     #eb6f92
+active_tab_background     #3a2323
+inactive_tab_foreground   #866a6a
+inactive_tab_background   #261013
+
+
+# black
+color0   #3a2323
+color8   #866A6A
+
+# red
+color1   #eb6f92
+color9   #eb6f92
+
+# green
+color2   #32a852
+color10  #32a852
+
+# yellow
+color3   #f6c177
+color11  #f6c177
+
+# blue
+color4   #a80737
+color12  #a80737
+
+# magenta
+color5   #c4a7e7
+color13  #c4a7e7
+
+# cyan
+color6   #34b9ed
+color14  #34b9ed
+
+
+
+# white
+color7   #e0def4
+color15  #e0def4

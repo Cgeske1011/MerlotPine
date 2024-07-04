@@ -1,0 +1,7 @@
+ "custom/outputs": {
+        "format": "󰴍{}",
+        "rotate": 0,
+        "on-click": "eww open closer && eww open audio-output-switcher",
+        "tooltop": true
+},
+
