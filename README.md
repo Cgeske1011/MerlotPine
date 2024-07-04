@@ -1,0 +1,2 @@
+# MerlotPine
+Hyprdots Theme
